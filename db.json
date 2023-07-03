@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "jojoi",
+      "age": "56",
+      "place": "bhopal",
+      "batch_name": "web14",
+      "profession": "backend",
+      "id": 3
+    },
+    {
+      "name": "shruti_sen",
+      "age": "45",
+      "place": "bhopal",
+      "batch_name": "web15",
+      "profession": "frontend",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "age": "23",
+      "place": "fddfer",
+      "batch_name": "web15",
+      "profession": "frontend",
+      "id": 6
+    }
+  ]
+}
